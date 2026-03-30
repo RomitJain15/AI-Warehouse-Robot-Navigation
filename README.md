@@ -74,15 +74,3 @@ jupyter notebook WarehouseRobot.ipynb
 
 ---
 
-## 🚀 Future Improvements
-
-- Dynamic obstacles
-- Reinforcement learning
-- Better heuristics
-- Parallel search
-
----
-
-## 👨‍💻 Author
-
-AI Project on Search Algorithms and Optimization
